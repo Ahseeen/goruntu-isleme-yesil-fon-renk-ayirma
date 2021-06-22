@@ -1,5 +1,4 @@
 # goruntu-isleme-yesil-fon-renk-ayirma
-Yeşil sahada futbolcuların formalarını ayırma işlemi uygulanmıştır.
 
 
 S uzayı için 150 eşik değerinin altındaki pikseller siyah, üstündeki pikseller ise beyaza 
